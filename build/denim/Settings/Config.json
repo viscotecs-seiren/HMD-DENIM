@@ -1,0 +1,14 @@
+{
+	"taxRate": 1.1,
+	"sex": "female",
+	"faceHeight": "25.0%",
+	"faceBottom": "73.0%",
+	"orders": [
+		[
+			{ "value": "model", "text": "型" },
+			{ "value": "option1", "text": "グランドカラー" },
+			{ "value": "colorName", "text": "後ろポケット" },
+			{ "value": "colorSubName", "text": "後ろポケットカラー" }
+		]
+	]
+}
