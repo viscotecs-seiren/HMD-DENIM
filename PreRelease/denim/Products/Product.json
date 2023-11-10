@@ -2,8 +2,8 @@
 	{
 		"BrandCode": "Lelian_denim",
 		"Products":[
-			{"productNumber":"0401163" ,"productName":"デニム スキニータイプ　ネイビー","colorCode":"04" ,"colorSubCode":"39" ,"mark_001":"ネイビー" ,"mark_002":"0401163","productReleaseDate":"エラー 2042"},
-			{"productNumber":"0401164" ,"productName":"デニム スキニータイプ　ブラック","colorCode":"04" ,"colorSubCode":"99" ,"mark_001":"・ブラック" ,"mark_002":"0401164","productReleaseDate":"2023/01/31"},
+			{"productNumber":"0401163" ,"productName":"デニム スリムタイプ　ネイビー","colorCode":"04" ,"colorSubCode":"39" ,"mark_001":"ネイビー" ,"mark_002":"0401163","productReleaseDate":"エラー 2042"},
+			{"productNumber":"0401164" ,"productName":"デニム スリムタイプ　ブラック","colorCode":"04" ,"colorSubCode":"99" ,"mark_001":"・ブラック" ,"mark_002":"0401164","productReleaseDate":"2023/01/31"},
 			{"productNumber":"0401157" ,"productName":"デニム ストレートタイプ　ネイビー","colorCode":"04" ,"colorSubCode":"39" ,"mark_001":"ネイビー" ,"mark_002":"0401157","productReleaseDate":"2022/09/30"},
 			{"productNumber":"0401158" ,"productName":"デニム ストレートタイプ　ブラック" ,"colorCode":"08" ,"colorSubCode":"99" ,"mark_001":"ブラック" ,"mark_002":"0401158","productReleaseDate":"2022/09/30"}
 		],
