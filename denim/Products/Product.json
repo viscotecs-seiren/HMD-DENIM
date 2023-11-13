@@ -1,0 +1,44 @@
+﻿[
+	{
+		"BrandCode": "Lelian_denim",
+		"Products":[
+			{"productNumber":"0401163" ,"productName":"デニム スリムタイプ　ネイビー","colorCode":"04" ,"colorSubCode":"39" ,"mark_001":"ネイビー" ,"mark_002":"0401163","productReleaseDate":"エラー 2042"},
+			{"productNumber":"0401164" ,"productName":"デニム スリムタイプ　ブラック","colorCode":"04" ,"colorSubCode":"99" ,"mark_001":"・ブラック" ,"mark_002":"0401164","productReleaseDate":"2023/01/31"},
+			{"productNumber":"0401157" ,"productName":"デニム ストレートタイプ　ネイビー","colorCode":"04" ,"colorSubCode":"39" ,"mark_001":"ネイビー" ,"mark_002":"0401157","productReleaseDate":"2022/09/30"},
+			{"productNumber":"0401158" ,"productName":"デニム ストレートタイプ　ブラック" ,"colorCode":"08" ,"colorSubCode":"99" ,"mark_001":"ブラック" ,"mark_002":"0401158","productReleaseDate":"2022/09/30"}
+		],
+		"Colors":[
+			{"colorCode":"04" ,"colorName":"無地","colorGroup":""  ,"colorSubCode":"39" ,"colorSubCodes":["39"] ,"mark_001":"ネイビー","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"01" ,"colorName":"スパンコール","colorGroup":""  ,"colorSubCode":"92" ,"colorSubCodes":["92","32","42","52","72"] ,"mark_001":"ネイビー","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"02" ,"colorName":"レース","colorGroup":""  ,"colorSubCode":"91" ,"colorSubCodes":["91","31","41","51","71"] ,"mark_001":"ネイビー","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"03" ,"colorName":"ハートステッチ","colorGroup":""  ,"colorSubCode":"90" ,"colorSubCodes":["90","30","40","50","70"] ,"mark_001":"ネイビー","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"08" ,"colorName":"無地","colorGroup":""  ,"colorSubCode":"99" ,"colorSubCodes":["99"] ,"mark_001":"ブラック","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"05" ,"colorName":"スパンコール","colorGroup":""  ,"colorSubCode":"95" ,"colorSubCodes":["95","35","45","55","75"] ,"mark_001":"ブラック","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"06" ,"colorName":"レース","colorGroup":""  ,"colorSubCode":"94" ,"colorSubCodes":["94","34","44","54","74"] ,"mark_001":"ブラック","colorReleaseDate":"2022/04/20"},
+			{"colorCode":"07" ,"colorName":"ハートステッチ","colorGroup":""  ,"colorSubCode":"93" ,"colorSubCodes":["93","33","43","53","73"] ,"mark_001":"ブラック","colorReleaseDate":"2022/04/20"}
+		],
+		"ColorMap":[
+			{"productNumber":"0401163" ,"colorCode":"01" ,"imageFiles":{"92":4,"32":4,"42":4,"52":4,"72":4}},
+			{"productNumber":"0401163" ,"colorCode":"02" ,"imageFiles":{"91":4,"31":4,"41":4,"51":4,"71":4}},
+			{"productNumber":"0401163" ,"colorCode":"03" ,"imageFiles":{"90":4,"30":4,"40":4,"50":4,"70":4}},
+			{"productNumber":"0401163" ,"colorCode":"04" ,"imageFiles":{"39":4}},
+
+			{"productNumber":"0401164" ,"colorCode":"05" ,"imageFiles":{"95":4,"35":4,"45":4,"55":4,"75":4}},
+			{"productNumber":"0401164" ,"colorCode":"06" ,"imageFiles":{"94":4,"34":4,"44":4,"54":4,"74":4}},
+			{"productNumber":"0401164" ,"colorCode":"07" ,"imageFiles":{"93":4,"33":4,"43":4,"53":4,"73":4}},
+			{"productNumber":"0401164" ,"colorCode":"08" ,"imageFiles":{"00":4,"92":4,"32":4,"42":4,"52":4,"72":4}},
+
+
+			{"productNumber":"0401157" ,"colorCode":"01" ,"imageFiles":{"92":4,"32":4,"42":4,"52":4,"72":4}},
+			{"productNumber":"0401157" ,"colorCode":"02" ,"imageFiles":{"91":4,"31":4,"41":4,"51":4,"71":4}},
+			{"productNumber":"0401157" ,"colorCode":"03" ,"imageFiles":{"90":4,"30":4,"40":4,"50":4,"70":4}},
+			{"productNumber":"0401157" ,"colorCode":"04" ,"imageFiles":{"00":4,"92":4,"32":4,"42":4,"52":4,"72":4}},
+
+			{"productNumber":"0401158" ,"colorCode":"05" ,"imageFiles":{"95":4,"35":4,"45":4,"55":4,"75":4}},
+			{"productNumber":"0401158" ,"colorCode":"06" ,"imageFiles":{"94":4,"34":4,"44":4,"54":4,"74":4}},
+			{"productNumber":"0401158" ,"colorCode":"07" ,"imageFiles":{"93":4,"33":4,"43":4,"53":4,"73":4}},
+			{"productNumber":"0401158" ,"colorCode":"08" ,"imageFiles":{"00":4,"92":4,"32":4,"42":4,"52":4,"72":4}}
+
+		]
+	}
+]
