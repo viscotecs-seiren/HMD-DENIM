@@ -25,7 +25,7 @@
 				-webkit-touch-callout: none;
 			}
 		</style>
-		<script type="module" crossorigin src="./assets/index-3456bc7c.js"></script>
+		<script type="module" crossorigin src="./assets/index-4c342eff.js"></script>
 		<link rel="modulepreload" crossorigin href="./assets/vendor-ce8bd5b3.js">
 		<link rel="modulepreload" crossorigin href="./assets/mui-8cf7b5db.js">
 		<link rel="stylesheet" href="./assets/index-277feb79.css">
@@ -33,5 +33,23 @@
 	<body>
 		<div id="root"></div>
 		
+		<script>
+			function updateViewport() {
+				const viewportMetaTag = document.querySelector('meta[name="viewport"]');
+				const deviceWidth = window.innerWidth;
+
+				// console.log('devicewidth', deviceWidth);
+
+				// basewidth:iPad9 = 810
+				let scale = deviceWidth / 810;
+
+				//console.log('scale', scale);
+
+				viewportMetaTag.content = `viewport-fit=cover, initial-scale=${scale}, maximum-scale=${scale}, user-scalable=yes`;
+			}
+
+			window.addEventListener('resize', updateViewport);
+			document.addEventListener('DOMContentLoaded', updateViewport);
+		</script>
 	</body>
 </html>
