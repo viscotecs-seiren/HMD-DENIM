@@ -5,10 +5,10 @@
 	"faceBottom": "73.0%",
 	"orders": [
 		[
+			{ "value": "option1", "text": "素材" },
 			{ "value": "model", "text": "型" },
-			{ "value": "option1", "text": "グランドカラー" },
-			{ "value": "colorName", "text": "後ろポケット" },
-			{ "value": "colorSubName", "text": "後ろポケットカラー" }
+			{ "value": "option2", "text": "グランドカラー" },
+			{ "value": "colorName", "text": "柄" }
 		]
 	]
 }

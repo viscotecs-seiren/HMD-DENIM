@@ -1,24 +1,6 @@
 {
 	"option1": [
 		{
-			"key": "ネイビー",
-			"value1": "",
-			"value2": "",
-			"value3": "アクアツイストの詳細説明",
-			"value4": "",
-			"colorCode":"04",
-			"colorSubCode":"39"
-		},
-		{
-			"key": "ブラック",
-			"value1": "",
-			"value2": "",
-			"value3": "コンパクトムーヴの詳細説明",
-			"value4": "",
-			"colorCode":"08",
-			"colorSubCode":"99"
-		},
-		{
 			"key": "サラマックス",
 			"value1": "",
 			"value2": "",
@@ -26,10 +8,24 @@
 			"value4": ""
 		},
 		{
-			"key": "2WAYツイル",
+			"key": "コンパクトムーヴ",
 			"value1": "",
 			"value2": "",
-			"value3": "2WAYツイルの詳細説明",
+			"value3": "コンパクトムーヴの詳細説明",
+			"value4": ""
+		},
+		{
+			"key": "アクアツイスト",
+			"value1": "",
+			"value2": "",
+			"value3": "アクアツイストの詳細説明",
+			"value4": ""
+		},
+		{
+			"key": "EIGHT WAYツイル",
+			"value1": "",
+			"value2": "",
+			"value3": "EIGHT WAYツイルの詳細説明",
 			"value4": ""
 		},
 		{
@@ -38,29 +34,69 @@
 			"value2": "",
 			"value3": "ルウォームの詳細説明",
 			"value4": ""
+		},
+		{
+			"key": "エアピース",
+			"value1": "",
+			"value2": "",
+			"value3": "エアピースの詳細説明",
+			"value4": ""
+		},
+		{
+			"key": "起毛なし",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
+		},
+		{
+			"key": "起毛あり",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
 		}
 	],
 	"option2": [
-		{ "key": "ボタンダウン", "value": "" },
-		{ "key": "レギュラー襟", "value": "" },
-
-		{ "key": "ベルト", "value": "" },
-		{ "key": "平ゴム", "value": "" }
+		{
+			"key": "ネイビー",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "01",
+			"colorSubCode": "39"
+		},
+		{
+			"key": "ブラック",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "01",
+			"colorSubCode": "89"
+		},
+		{
+			"key": "ピンク",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "01",
+			"colorSubCode": "79"
+		},
+		{
+			"key": "グリーン",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "01",
+			"colorSubCode": "49"
+		}
 	],
 	"option3": [
 		{ "key": "半袖", "value": "" },
 		{ "key": "長袖", "value": "" }
-	],
-	"option_base": [
-		{
-			"key": "ネイビー",
-			"colorCode":"04",
-			"colorSubCode":"39"
-		},
-		{
-			"key": "ブラック",
-			"colorCode":"08",
-			"colorSubCode":"99"
-		}
 	]
 }
