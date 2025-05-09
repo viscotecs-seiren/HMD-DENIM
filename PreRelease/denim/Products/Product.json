@@ -22,25 +22,25 @@
 			{"productNumber":"0503503" ,"productName":"デニム　ガウチョタイプ　小紋柄　ブラウン"                    ,"colorCode":"05" ,"colorSubCode":"86" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"ブラウン"}
 		],
 		"Colors":[
-			{"colorCode":"01" ,"colorName":" 無地"                                   ,"colorGroup":""  ,"colorSubCode":"31" ,"colorSubCodes":["31"] ,"mark_001":"デニム柄","mark_002":"サックス","colorReleaseDate":""},
-			{"colorCode":"02" ,"colorName":" カットワークレース"                     ,"colorGroup":"" ,"colorSubCode":"32" ,"colorSubCodes":["32"] ,"mark_001":"デニム柄","mark_002":"サックス","colorReleaseDate":""},
-			{"colorCode":"03" ,"colorName":" ビット"                                 ,"colorGroup":"" ,"colorSubCode":"33" ,"colorSubCodes":["33"] ,"mark_001":"デニム柄","mark_002":"サックス","colorReleaseDate":""},
+			{"colorCode":"01" ,"colorName":"無地"                                   ,"colorGroup":""  ,"colorSubCode":"31" ,"colorSubCodes":["31"] ,"mark_001":"デニム柄","mark_002":"サックス","colorReleaseDate":""},
+			{"colorCode":"02" ,"colorName":"カットワークレース"                     ,"colorGroup":"" ,"colorSubCode":"32" ,"colorSubCodes":["32"] ,"mark_001":"デニム柄","mark_002":"サックス","colorReleaseDate":""},
+			{"colorCode":"03" ,"colorName":"ビット"                                 ,"colorGroup":"" ,"colorSubCode":"33" ,"colorSubCodes":["33"] ,"mark_001":"デニム柄","mark_002":"サックス","colorReleaseDate":""},
 
-			{"colorCode":"01" ,"colorName":" 無地"                                   ,"colorGroup":"" ,"colorSubCode":"34" ,"colorSubCodes":["34"] ,"mark_001":"デニム柄","mark_002":"ネイビー","colorReleaseDate":""},
-			{"colorCode":"02" ,"colorName":" カットワークレース"                     ,"colorGroup":""  ,"colorSubCode":"35" ,"colorSubCodes":["35"] ,"mark_001":"デニム柄","mark_002":"ネイビー","colorReleaseDate":""},
-			{"colorCode":"03" ,"colorName":" ビット"                                 ,"colorGroup":""  ,"colorSubCode":"36" ,"colorSubCodes":["36"] ,"mark_001":"デニム柄","mark_002":"ネイビー","colorReleaseDate":""},
+			{"colorCode":"01" ,"colorName":"無地"                                   ,"colorGroup":"" ,"colorSubCode":"34" ,"colorSubCodes":["34"] ,"mark_001":"デニム柄","mark_002":"ネイビー","colorReleaseDate":""},
+			{"colorCode":"02" ,"colorName":"カットワークレース"                     ,"colorGroup":""  ,"colorSubCode":"35" ,"colorSubCodes":["35"] ,"mark_001":"デニム柄","mark_002":"ネイビー","colorReleaseDate":""},
+			{"colorCode":"03" ,"colorName":"ビット"                                 ,"colorGroup":""  ,"colorSubCode":"36" ,"colorSubCodes":["36"] ,"mark_001":"デニム柄","mark_002":"ネイビー","colorReleaseDate":""},
 
-			{"colorCode":"01" ,"colorName":" 無地"                                   ,"colorGroup":""  ,"colorSubCode":"97" ,"colorSubCodes":["97"] ,"mark_001":"デニム柄","mark_002":"ブラック","colorReleaseDate":""},
-			{"colorCode":"02" ,"colorName":" カットワークレース"                     ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"デニム柄","mark_002":"ブラック","colorReleaseDate":""},
-			{"colorCode":"03" ,"colorName":" ビット"                                 ,"colorGroup":""  ,"colorSubCode":"99" ,"colorSubCodes":["99"] ,"mark_001":"デニム柄","mark_002":"ブラック","colorReleaseDate":""},
+			{"colorCode":"01" ,"colorName":"無地"                                   ,"colorGroup":""  ,"colorSubCode":"97" ,"colorSubCodes":["97"] ,"mark_001":"デニム柄","mark_002":"ブラック","colorReleaseDate":""},
+			{"colorCode":"02" ,"colorName":"カットワークレース"                     ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"デニム柄","mark_002":"ブラック","colorReleaseDate":""},
+			{"colorCode":"03" ,"colorName":"ビット"                                 ,"colorGroup":""  ,"colorSubCode":"99" ,"colorSubCodes":["99"] ,"mark_001":"デニム柄","mark_002":"ブラック","colorReleaseDate":""},
 
-			{"colorCode":"04" ,"colorName":" ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"38" ,"colorSubCodes":["38"] ,"mark_001":"ジャガード柄" ,"mark_002":"ネイビー","colorReleaseDate":""},
-			{"colorCode":"04" ,"colorName":" ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"82" ,"colorSubCodes":["82"] ,"mark_001":"ジャガード柄" ,"mark_002":"ベージュ","colorReleaseDate":""},
-			{"colorCode":"04" ,"colorName":" ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"ジャガード柄" ,"mark_002":"ブラック","colorReleaseDate":""},
+			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"38" ,"colorSubCodes":["38"] ,"mark_001":"ジャガード柄" ,"mark_002":"ネイビー","colorReleaseDate":""},
+			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"82" ,"colorSubCodes":["82"] ,"mark_001":"ジャガード柄" ,"mark_002":"ベージュ","colorReleaseDate":""},
+			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"ジャガード柄" ,"mark_002":"ブラック","colorReleaseDate":""},
 
-			{"colorCode":"05" ,"colorName":" 小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"26" ,"colorSubCodes":["26"] ,"mark_001":"小紋柄" ,"mark_002":"パープル","colorReleaseDate":""},
-			{"colorCode":"05" ,"colorName":" 小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"46" ,"colorSubCodes":["46"] ,"mark_001":"小紋柄" ,"mark_002":"グリーン","colorReleaseDate":""},
-			{"colorCode":"05" ,"colorName":" 小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"86" ,"colorSubCodes":["86"] ,"mark_001":"小紋柄" ,"mark_002":"ブラウン","colorReleaseDate":""}
+			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"26" ,"colorSubCodes":["26"] ,"mark_001":"小紋柄" ,"mark_002":"パープル","colorReleaseDate":""},
+			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"46" ,"colorSubCodes":["46"] ,"mark_001":"小紋柄" ,"mark_002":"グリーン","colorReleaseDate":""},
+			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"86" ,"colorSubCodes":["86"] ,"mark_001":"小紋柄" ,"mark_002":"ブラウン","colorReleaseDate":""}
 		],
 		"ColorMap":[
 			{"productNumber":"0503490" ,"colorCode":"01" ,"imageFiles":{"31":4}},
