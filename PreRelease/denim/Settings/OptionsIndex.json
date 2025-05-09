@@ -1,48 +1,6 @@
 {
 	"option1": [
 		{
-			"key": "サラマックス",
-			"value1": "",
-			"value2": "",
-			"value3": "サラマックスの詳細説明",
-			"value4": ""
-		},
-		{
-			"key": "コンパクトムーヴ",
-			"value1": "",
-			"value2": "",
-			"value3": "コンパクトムーヴの詳細説明",
-			"value4": ""
-		},
-		{
-			"key": "アクアツイスト",
-			"value1": "",
-			"value2": "",
-			"value3": "アクアツイストの詳細説明",
-			"value4": ""
-		},
-		{
-			"key": "EIGHT WAYツイル",
-			"value1": "",
-			"value2": "",
-			"value3": "EIGHT WAYツイルの詳細説明",
-			"value4": ""
-		},
-		{
-			"key": "ルウォーム",
-			"value1": "",
-			"value2": "",
-			"value3": "ルウォームの詳細説明",
-			"value4": ""
-		},
-		{
-			"key": "エアピース",
-			"value1": "",
-			"value2": "",
-			"value3": "エアピースの詳細説明",
-			"value4": ""
-		},
-		{
 			"key": "起毛なし",
 			"value1": "",
 			"value2": "",
@@ -59,44 +17,108 @@
 	],
 	"option2": [
 		{
-			"key": "ネイビー",
-			"value1": "",
+			"key": "サックス",
+			"value1": "デニム柄",
 			"value2": "",
 			"value3": "",
 			"value4": "",
 			"colorCode": "01",
-			"colorSubCode": "39"
+			"colorSubCode": "31"
+		},
+		{
+			"key": "ネイビー",
+			"value1": "デニム柄",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "01",
+			"colorSubCode": "34"
 		},
 		{
 			"key": "ブラック",
-			"value1": "",
+			"value1": "デニム柄",
 			"value2": "",
 			"value3": "",
 			"value4": "",
 			"colorCode": "01",
-			"colorSubCode": "89"
+			"colorSubCode": "97"
 		},
 		{
-			"key": "ピンク",
-			"value1": "",
+			"key": "ネイビー",
+			"value1": "ジャガード柄",
 			"value2": "",
 			"value3": "",
 			"value4": "",
-			"colorCode": "01",
-			"colorSubCode": "79"
+			"colorCode": "04",
+			"colorSubCode": "38"
+		},
+		{
+			"key": "ベージュ",
+			"value1": "ジャガード柄",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "04",
+			"colorSubCode": "82"
+		},
+		{
+			"key": "ブラック",
+			"value1": "ジャガード柄",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "04",
+			"colorSubCode": "98"
+		},
+		{
+			"key": "パープル",
+			"value1": "小紋柄",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "05",
+			"colorSubCode": "26"
 		},
 		{
 			"key": "グリーン",
-			"value1": "",
+			"value1": "小紋柄",
 			"value2": "",
 			"value3": "",
 			"value4": "",
-			"colorCode": "01",
-			"colorSubCode": "49"
+			"colorCode": "05",
+			"colorSubCode": "46"
+		},
+		{
+			"key": "ブラウン",
+			"value1": "小紋柄",
+			"value2": "",
+			"value3": "",
+			"value4": "",
+			"colorCode": "05",
+			"colorSubCode": "86"
 		}
 	],
 	"option3": [
-		{ "key": "半袖", "value": "" },
-		{ "key": "長袖", "value": "" }
+		{
+			"key": "デニム柄",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
+		},
+		{
+			"key": "ジャガード柄",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
+		},
+		{
+			"key": "小紋柄",
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
+		}
 	]
 }

@@ -16,6 +16,5 @@
 		"denim/Images/backgraund/background2.jpg"
 	],
 	"mannequin": "denim/Images/render/female_golf_avatar",
-	"shoes": "denim/Images/render/female_shoes_sneakers",
-	"ProductRenumber": "denim/Products/ProductReNumber.json"
+	"shoes": "denim/Images/render/female_shoes_sneakers"
 }
