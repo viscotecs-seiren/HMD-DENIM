@@ -38,9 +38,9 @@
 			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"82" ,"colorSubCodes":["82"] ,"mark_001":"ジャガード柄" ,"mark_002":"ベージュ","colorReleaseDate":""},
 			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"ジャガード柄" ,"mark_002":"ブラック","colorReleaseDate":""},
 
-			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"26" ,"colorSubCodes":["26"] ,"mark_001":"小紋柄" ,"mark_002":"パープル","colorReleaseDate":""},
-			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"46" ,"colorSubCodes":["46"] ,"mark_001":"小紋柄" ,"mark_002":"グリーン","colorReleaseDate":""},
-			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"86" ,"colorSubCodes":["86"] ,"mark_001":"小紋柄" ,"mark_002":"ブラウン","colorReleaseDate":""}
+			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"26" ,"colorSubCodes":["26"] ,"mark_001":"小紋柄" ,"mark_002":"ネイビー×パープル","colorReleaseDate":""},
+			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"46" ,"colorSubCodes":["46"] ,"mark_001":"小紋柄" ,"mark_002":"ネイビー×グリーン","colorReleaseDate":""},
+			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"86" ,"colorSubCodes":["86"] ,"mark_001":"小紋柄" ,"mark_002":"ブラック×ブラウン","colorReleaseDate":""}
 		],
 		"ColorMap":[
 			{"productNumber":"0503490" ,"colorCode":"01" ,"imageFiles":{"31":4}},
