@@ -1,18 +1,21 @@
 [
-	{ "code": "39", "value": 1, "text": "ネイビー" },
-	{ "code": "38", "value": 2, "text": "ネイビー" },
-	{ "code": "37", "value": 3, "text": "ネイビー" },
-	{ "code": "36", "value": 4, "text": "ネイビー" },
-	{ "code": "89", "value": 5, "text": "ブラック" },
-	{ "code": "88", "value": 6, "text": "ブラック" },
-	{ "code": "87", "value": 7, "text": "ブラック" },
-	{ "code": "86", "value": 8, "text": "ブラック" },
-	{ "code": "79", "value": 9, "text": "ピンク" },
-	{ "code": "78", "value": 10, "text": "ピンク" },
-	{ "code": "77", "value": 11, "text": "ピンク" },
-	{ "code": "76", "value": 12, "text": "ピンク" },
-	{ "code": "49", "value": 13, "text": "グリーン" },
-	{ "code": "48", "value": 14, "text": "グリーン" },
-	{ "code": "47", "value": 15, "text": "グリーン" },
-	{ "code": "46", "value": 16, "text": "グリーン" }
+	{ "code": "31", "value": 1, "text": "サックス" },
+	{ "code": "32", "value": 12, "text": "サックス" },
+	{ "code": "33", "value": 3, "text": "サックス" },
+
+	{ "code": "34", "value": 4, "text": "ネイビー" },
+	{ "code": "35", "value": 5, "text": "ネイビー" },
+	{ "code": "36", "value": 6, "text": "ネイビー" },
+
+	{ "code": "97", "value": 7, "text": "ブラック" },
+	{ "code": "98", "value": 8, "text": "ブラック" },
+	{ "code": "99", "value": 9, "text": "ブラック" },
+
+	{ "code": "38", "value": 10, "text": "ネイビー" },
+	{ "code": "82", "value": 11, "text": "ベージュ" },
+	{ "code": "98", "value": 12, "text": "ブラック" },
+
+	{ "code": "26", "value": 13, "text": "ネイビー×パープル" },
+	{ "code": "46", "value": 14, "text": "ネイビー×グリーン" },
+	{ "code": "86", "value": 15, "text": "ブラック×ブラウン" }
 ]
