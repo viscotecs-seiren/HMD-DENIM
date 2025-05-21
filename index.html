@@ -23,9 +23,18 @@
 			body {
 				-webkit-user-select: none;
 				-webkit-touch-callout: none;
+				margin: 0;
+				padding: 0;
+				width: 100%;
+				height: 100%;
+				overflow: hidden;
+			}
+			#root {
+				width: 100%;
+				height: 100%;
 			}
 		</style>
-		<script type="module" crossorigin src="./assets/index-c8910633.js"></script>
+		<script type="module" crossorigin src="./assets/index-d02aad12.js"></script>
 		<link rel="modulepreload" crossorigin href="./assets/vendor-ce8bd5b3.js">
 		<link rel="modulepreload" crossorigin href="./assets/mui-8cf7b5db.js">
 		<link rel="stylesheet" href="./assets/index-277feb79.css">
@@ -37,18 +46,20 @@
 			function updateViewport() {
 				const viewportMetaTag = document.querySelector('meta[name="viewport"]');
 				const deviceWidth = window.innerWidth;
+				const deviceHeight = window.innerHeight;
 
-				// console.log('devicewidth', deviceWidth);
+				// 画面の向きに応じて基準サイズを変更
+				const baseWidth = window.orientation === 90 || window.orientation === -90 ? 1060 : 810;
+				const baseHeight = window.orientation === 90 || window.orientation === -90 ? 810 : 1060;
 
-				// basewidth:iPad9 = 810
-				let scale = deviceWidth / 810;
+				// 画面の向きに応じてスケールを計算
+				const scale = Math.min(deviceWidth / baseWidth, deviceHeight / baseHeight);
 
-				//console.log('scale', scale);
-
-				viewportMetaTag.content = `viewport-fit=cover, initial-scale=${scale}, maximum-scale=${scale}, user-scalable=yes`;
+				viewportMetaTag.content = `viewport-fit=cover, initial-scale=${scale}, maximum-scale=1.0, user-scalable=yes`;
 			}
 
 			window.addEventListener('resize', updateViewport);
+			window.addEventListener('orientationchange', updateViewport);
 			document.addEventListener('DOMContentLoaded', updateViewport);
 		</script>
 	</body>
