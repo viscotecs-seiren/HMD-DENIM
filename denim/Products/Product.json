@@ -7,7 +7,7 @@
 			{"productNumber":"0503490" ,"productName":"デニム　スリムタイプ　デニム　ブラック"                      ,"colorCode":"01" ,"colorSubCode":"97" ,"productReleaseDate":"2025/04/23" ,"mark_001":"デニム柄" ,"mark_002":"ブラック"},
 			{"productNumber":"0503493" ,"productName":"デニム　スリムタイプ　ジャガード　ネイビー"                  ,"colorCode":"04" ,"colorSubCode":"38" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"ネイビー"},
 			{"productNumber":"0503493" ,"productName":"デニム　スリムタイプ　ジャガード　ベージュ"                  ,"colorCode":"04" ,"colorSubCode":"82" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"ベージュ"},
-			{"productNumber":"0503493" ,"productName":"デニム　スリムタイプ　ジャガード　ブラック"                  ,"colorCode":"04" ,"colorSubCode":"98" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"ブラック"},
+			{"productNumber":"0503493" ,"productName":"デニム　スリムタイプ　ジャガード　グレー"                  ,"colorCode":"04" ,"colorSubCode":"98" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"グレー"},
 			{"productNumber":"0503496" ,"productName":"デニム　スリムタイプ　小紋柄　パープル"                      ,"colorCode":"05" ,"colorSubCode":"26" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"パープル"},
 			{"productNumber":"0503496" ,"productName":"デニム　スリムタイプ　小紋柄　グリーン"                      ,"colorCode":"05" ,"colorSubCode":"46" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"グリーン"},
 			{"productNumber":"0503496" ,"productName":"デニム　スリムタイプ　小紋柄　ブラウン"                      ,"colorCode":"05" ,"colorSubCode":"86" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"ブラウン"},
@@ -16,7 +16,7 @@
 			{"productNumber":"0503499" ,"productName":"デニム　ガウチョタイプ　デニム　ブラック"                    ,"colorCode":"01" ,"colorSubCode":"97" ,"productReleaseDate":"2025/04/23" ,"mark_001":"デニム柄" ,"mark_002":"ブラック"},
 			{"productNumber":"0503501" ,"productName":"デニム　ガウチョタイプ　ジャガード　ネイビー"                ,"colorCode":"04" ,"colorSubCode":"38" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"ネイビー"},
 			{"productNumber":"0503501" ,"productName":"デニム　ガウチョタイプ　ジャガード　ベージュ"                ,"colorCode":"04" ,"colorSubCode":"82" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"ベージュ"},
-			{"productNumber":"0503501" ,"productName":"デニム　ガウチョタイプ　ジャガード　ブラック"                ,"colorCode":"04" ,"colorSubCode":"98" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"ブラック"},
+			{"productNumber":"0503501" ,"productName":"デニム　ガウチョタイプ　ジャガード　グレー"                ,"colorCode":"04" ,"colorSubCode":"98" ,"productReleaseDate":"2025/04/23" ,"mark_001":"ジャガード柄" ,"mark_002":"グレー"},
 			{"productNumber":"0503503" ,"productName":"デニム　ガウチョタイプ　小紋柄　パープル"                    ,"colorCode":"05" ,"colorSubCode":"26" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"パープル"},
 			{"productNumber":"0503503" ,"productName":"デニム　ガウチョタイプ　小紋柄　グリーン"                    ,"colorCode":"05" ,"colorSubCode":"46" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"グリーン"},
 			{"productNumber":"0503503" ,"productName":"デニム　ガウチョタイプ　小紋柄　ブラウン"                    ,"colorCode":"05" ,"colorSubCode":"86" ,"productReleaseDate":"2025/04/23" ,"mark_001":"小紋柄" ,"mark_002":"ブラウン"}
@@ -36,7 +36,7 @@
 
 			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"38" ,"colorSubCodes":["38"] ,"mark_001":"ジャガード柄" ,"mark_002":"ネイビー","colorReleaseDate":""},
 			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"82" ,"colorSubCodes":["82"] ,"mark_001":"ジャガード柄" ,"mark_002":"ベージュ","colorReleaseDate":""},
-			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"ジャガード柄" ,"mark_002":"ブラック","colorReleaseDate":""},
+			{"colorCode":"04" ,"colorName":"ジャガード"                             ,"colorGroup":""  ,"colorSubCode":"98" ,"colorSubCodes":["98"] ,"mark_001":"ジャガード柄" ,"mark_002":"グレー","colorReleaseDate":""},
 
 			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"26" ,"colorSubCodes":["26"] ,"mark_001":"小紋柄" ,"mark_002":"ネイビー×パープル","colorReleaseDate":""},
 			{"colorCode":"05" ,"colorName":"小紋柄"                                 ,"colorGroup":""  ,"colorSubCode":"46" ,"colorSubCodes":["46"] ,"mark_001":"小紋柄" ,"mark_002":"ネイビー×グリーン","colorReleaseDate":""},
